@@ -1,0 +1,18 @@
+# Search Experts
+
+> Search Experts pomaga markom budować i mierzyć widoczność w Google oraz odpowiedziach AI.
+
+## Najważniejsze strony
+- [SEO](https://searchexperts.pl/seo/): techniczne SEO, treści i monitoring widoczności.
+- [AI SEO / GEO](https://searchexperts.pl/ai-seo-geo/): monitoring odpowiedzi AI, cytowalność i dane o marce.
+- [Audyt SEO i GEO](https://searchexperts.pl/audyt-seo/): diagnoza i priorytety wdrożeniowe.
+- [Pozycjonowanie sklepu internetowego](https://searchexperts.pl/seo/sklepy-internetowe/): indeksacja, kategorie, produkty.
+- [Pozycjonowanie lokalne](https://searchexperts.pl/seo/lokalne/): profil firmy w Google, Mapy, opinie.
+- [Migracja strony](https://searchexperts.pl/seo/migracja/): zmiana domeny lub platformy bez utraty widoczności.
+- [Konsultacje SEO i GEO](https://searchexperts.pl/seo/konsultacje/): druga opinia dla zespołów.
+- [Monitoring widoczności w AI](https://searchexperts.pl/ai-seo-geo/monitoring/): ChatGPT, Gemini, Perplexity, Claude.
+- [O nas](https://searchexperts.pl/o-nas/): doświadczenie i sposób pracy zespołu.
+- [Blog](https://searchexperts.pl/blog/): materiały eksperckie.
+
+## Kontakt
+kontakt@searchexperts.pl, +48 517 391 908, Warszawa.

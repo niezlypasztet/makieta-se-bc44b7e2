@@ -12,7 +12,7 @@
 - [Konsultacje SEO i GEO](https://searchexperts.pl/seo/konsultacje/): druga opinia dla zespołów.
 - [Monitoring widoczności w AI](https://searchexperts.pl/ai-seo-geo/monitoring/): ChatGPT, Gemini, Perplexity, Claude.
 - [O nas](https://searchexperts.pl/o-nas/): doświadczenie i sposób pracy zespołu.
-- [Blog](https://searchexperts.pl/blog/): materiały eksperckie.
+- [Prasówka SEO i AI](https://searchexperts.pl/prasowka/): cotygodniowe zmiany w Google i asystentach AI, ze źródłami.
 
 ## Kontakt
 kontakt@searchexperts.pl, +48 517 391 908, Warszawa.
